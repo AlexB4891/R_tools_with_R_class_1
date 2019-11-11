@@ -1,2 +1,5 @@
-# R_tools_with_R_class_1
-Primera clase del curso Herramientas de Analysis con R
+# Herramientas de análisis con R: Clase 1
+
+En esta primera clase se revisaran los contenidos del curso de 4 semanas.
+
+
